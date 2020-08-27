@@ -36,11 +36,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<properties>
-  <sonar.projectKey>Samples</sonar.projectKey>
-  <sonar.organization>srinivaskolaparthi</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+
 
 	<build>
 		<plugins>
